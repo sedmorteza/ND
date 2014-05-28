@@ -1,4 +1,0 @@
-ND
-==
-
-ImageJ plugin 
