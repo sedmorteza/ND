@@ -1,8 +1,8 @@
 ﻿{
-    "FootLength": "25.1",
-    "FootWidth": "9.6",
-    "BallWidth": "10",
-    "HeelWidth": "6.2",
-    "ArchGirth": "24.7",
-    "HeelDiagonal": "32.4"
+    "FootLength": 25.1,
+    "FootWidth": 9.6,
+    "BallWidth": 10,
+    "HeelWidth": 6.2,
+    "ArchGirth": 24.7,
+    "HeelDiagonal": 32.4
 }
